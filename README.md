@@ -104,17 +104,6 @@ tesserabot que documentos preciso para me matricular?
 - **Formatação rica**: Embeds e respostas estruturadas
 - **Debug integrado**: Logs detalhados para desenvolvimento
 
-## 🤝 Contribuindo
-
-1. Fork o projeto
-2. Crie sua feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
-## 📄 Licença
-
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## 🔗 Links Úteis
 
@@ -122,13 +111,3 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 - [Google AI Studio](https://makersuite.google.com/app/apikey)
 - [Documentação Gemini](https://ai.google.dev/docs)
 
-## 📞 Suporte
-
-Se você tiver problemas:
-1. Verifique os logs no terminal
-2. Confirme as chaves API no arquivo `.env`
-3. Abra uma issue descrevendo o problema
-
----
-
-**Feito com ❤️ para ajudar universitários**
